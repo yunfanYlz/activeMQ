@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/ylz/activemq/MQStart.java=UTF-8
+encoding//src/main/java/com/ylz/activemq/StartServer.java=UTF-8
+encoding//src/main/java/com/ylz/activemq/dubbo/ConsumerMessageListener.java=UTF-8
+encoding//src/main/java/com/ylz/activemq/dubbo/ConsumerMessageTopicListener.java=UTF-8
+encoding//src/main/java/com/ylz/activemq/dubbo/ProducerServiceImpl.java=UTF-8
+encoding//src/main/java/com/ylz/activemq/test/ActiveMQSender.java=UTF-8
+encoding/<project>=UTF-8
